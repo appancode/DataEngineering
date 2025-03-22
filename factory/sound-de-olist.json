@@ -1,0 +1,9 @@
+{
+	"name": "sound-de-olist",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7af663c0-8c7e-4b15-90e9-294fd71f4533",
+		"tenantId": "dcdec809-04f0-4ec6-9148-237f8812a815"
+	}
+}
